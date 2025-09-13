@@ -1,4 +1,6 @@
-# rafce- react arrow function component export (for automatically creating functional component )
+# rafce-
+
+react arrow function component export (for automatically creating functional component )
 
 # Netflix GPT
 
@@ -16,7 +18,7 @@
 -tailer in background
 -movie title and description
 -movie suggestions
--movie list\*N (vertical scroll)
+-movie list\*n (vertical scroll)
 
 -Netflix GPT
 -search bar
