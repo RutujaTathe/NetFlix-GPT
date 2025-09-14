@@ -6,6 +6,8 @@ react arrow function component export (for automatically creating functional com
 
 -create react app
 -configure tailwindcss
+-header
+-login form
 
 # features
 
